@@ -106,11 +106,13 @@ body {
 }
 
 .fa-trash {
-  color: red;
+  color: rgb(155, 99, 99);
   font-size: 20px;
+  pointer-events: auto;
 }
 
 .fa-file-pen {
   color: rgb(28, 4, 83);
   font-size: 20px;
+  pointer-events:auto;
 }
